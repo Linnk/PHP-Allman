@@ -17,12 +17,14 @@ Installation
 Download the source code:
 
 .. code-block:: bash
+
 	$ git clone https://github.com/Linnk/PHP-Allman.git ~/your-path/PHP-Allman/
 
 
 Install dependencies with `Composer`_:
 
 .. code-block:: bash
+
 	$ cd ~/your-path/PHP-Allman/
 	$ composer install
 
@@ -34,6 +36,7 @@ order to make `_TextMate` to believe this is the mainstream fixer.
 
 	$ box build -v
 	$ sudo ln -s ~/your-path/PHP-Allman/php-allman.phar /usr/local/bin/php-cs-fixer
+
 
 Now you can use it in TextMate pressing ^ + ⇧ + H.
 
