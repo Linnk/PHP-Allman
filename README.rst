@@ -30,7 +30,7 @@ Install dependencies with `Composer`_:
 
 
 Build the php-allman.phar and create a symbolic link alias php-cs-fixer in
-order to make `_TextMate` to believe this is the mainstream fixer.
+order to make `TextMate`_ to believe this is the mainstream fixer.
 
 .. code-block:: bash
 
