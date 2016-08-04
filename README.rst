@@ -1,3 +1,5 @@
+**Deprecated**: You should try `Allman_CodeSniffer`_ instead.
+
 PHP Allman Coding Style Fixer
 =============================
 
@@ -53,6 +55,7 @@ And you should be able to use it with the same params as php-cs-fixer.
 	$ ./php-allman.phar
 
 
+.. _Allman_CodeSniffer:            https://github.com/Linnk/Allman_CodeSniffer
 .. _PHP Coding Standards Fixer:    https://github.com/fabpot/php-cs-fixer
 .. _TextMate:                      https://github.com/textmate/textmate
 .. _Composer:                      https://getcomposer.org/
